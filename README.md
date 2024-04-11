@@ -17,9 +17,7 @@
 -->
 
 ## About me
-I'm a student at ISAT-U currently studying Information Technology, in my second year of college. I started learning programming languages in my first year, and I'm currently studying languages such as PHP, R programming, Java, and Dart. I'm looking forward to learn more!
-I've been a hardworking Flutter Mobile Developer with a genuine interest in mobile application development. I'm always looking for new ways to widen my knowledge and skills.
-
+I'm a student at ISAT-U, currently studying Information Technology, in my second year of college. I started learning programming languages in my first year, and I'm currently studying languages such as PHP, R programming, Java, and Dart. I'm looking forward to learning more! Join me on my journey to become a mobile developer, with a genuine interest in mobile application development. I'm always looking for new ways to widen my knowledge and skills.
 
 ## What do i do for FUN?
 - I love to play online games!! esp FPS games. 
